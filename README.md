@@ -6,6 +6,7 @@ Bike sharing systems are new generation of traditional bike rentals where whole 
 
 # Business Problem
 Bicycle rental systems are becoming widespread and play an important role in urban transportation.
+
 Can we predict daily monthly and annual demand?
 
 # Story of Dataset
